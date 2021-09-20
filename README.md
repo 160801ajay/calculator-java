@@ -1,5 +1,3 @@
-# calculator-java
-small calculator in java
 import java.util.*;
 class Calculator {
 
